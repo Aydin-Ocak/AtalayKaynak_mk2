@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AtalayKaynak_mk_3.props" />
+</Project>

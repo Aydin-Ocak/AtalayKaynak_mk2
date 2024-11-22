@@ -1,0 +1,200 @@
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\bin\Debug\net9.0\appsettings.json
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\bin\Debug\net9.0\AtalayKaynak_mk_3.staticwebassets.runtime.json
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\bin\Debug\net9.0\AtalayKaynak_mk_3.staticwebassets.endpoints.json
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\bin\Debug\net9.0\AtalayKaynak_mk_3.exe
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\bin\Debug\net9.0\AtalayKaynak_mk_3.deps.json
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\bin\Debug\net9.0\AtalayKaynak_mk_3.runtimeconfig.json
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\bin\Debug\net9.0\AtalayKaynak_mk_3.dll
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\bin\Debug\net9.0\AtalayKaynak_mk_3.pdb
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\AtalayKaynak_mk_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\AtalayKaynak_mk_3.AssemblyInfoInputs.cache
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\AtalayKaynak_mk_3.AssemblyInfo.cs
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\AtalayKaynak_mk_3.csproj.CoreCompileInputs.cache
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\AtalayKaynak_mk_3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\AtalayKaynak_mk_3.RazorAssemblyInfo.cache
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\AtalayKaynak_mk_3.RazorAssemblyInfo.cs
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\scopedcss\bundle\AtalayKaynak_mk_3.styles.css
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\s55vl6m7tz-61n19gt1b8.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\uhzqmo5yiw-bqjiyaj88i.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\8o8jgykp1m-c2jlpeoesf.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\r6pve62kw8-erw9l3u2r3.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\tvn2pybpbb-aexeepp0ev.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\btc7gjm3tq-d7shbmvgxk.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\43hxubzgn8-ausgxo2sd3.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\2g85t7kima-k8d9w2qqmf.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\zsmvb4n3yz-cosvhxvwiu.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\5oteus8hge-ub07r2b239.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\rw1k3zxaah-fvhpjtyr6v.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\ifbmnjzuj2-b7pk76d08c.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\6kr2ocsy25-fsbi9cje9m.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\5nukkc83d1-rzd6atqjts.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\4uu0qy44io-ee0r1s7dh0.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\47ox89ixdx-dxx9fxp4il.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\p9pdk2wboy-jd9uben2k1.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\bi1102e80r-khv3u5hwcm.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\iqimu84xxc-r4e9w2rdcm.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\aet0vqpf4u-lcd1t2u6c8.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\hqn1c7do9p-c2oey78nd0.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\oalk7qeyyp-tdbxkamptv.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\qb8ceqowl7-j5mq2jizvt.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\xgb6aqzwrt-06098lyss8.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\kquzlg0xfo-nvvlpmu67g.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\otwsee1qwf-s35ty4nyc5.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\skqv5whmdy-pj5nd1wqec.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\l63clygpq0-46ein0sx1k.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\7tv6ud9nlw-v0zj4ognzu.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\45z3ryeig1-37tfw0ft22.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\qjscaf8uws-hrwsygsryq.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\kp9sad3gi0-pk9g2wxc8p.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\3tjiw9kyuv-ft3s53vfgj.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\e9kp6xizeh-6cfz1n2cew.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\ue3hf7ishs-6pdc2jztkx.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\c4g4fv8w5b-493y06b0oq.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\7rxfb0sixr-iovd86k7lj.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\ysfbd3l5qa-vr1egmr9el.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\lxmuh6d22s-kbrnm935zg.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\0pf690i6dq-jj8uyg4cgr.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\di3i529ace-y7v9cxd14o.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\uibarr9w5h-notf2xhcfb.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\mpr0oxssn1-h1s4sie4z3.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\728qzyhyug-63fj8s7r0e.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\2cfi9bpjb1-0j3bgjxly4.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\reo33ag404-47otxtyo56.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\sg8khsv05r-4v8eqarkd7.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\sii8uiyul7-356vix0kms.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\4km65197ai-83jwlth58m.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\ipbcx6u4bt-mrlpezrjn3.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\nyae9eypxy-lzl9nlhx6b.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\lehbgq5e8d-ag7o75518u.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\2m4e9yoe6r-x0q3zqp4vz.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\zsi48cc3h2-0i3buxo5is.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\bzhnapsvoy-o1o13a6vjx.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\dh2gedvmc3-ttgo8qnofa.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\seese1zzau-2z0ns9nrw6.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\aa4u94iclr-muycvpuwrr.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\dgcpdk67ln-87fc7y1x7t.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\mp903b6ljc-mlv21k5csn.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\staticwebassets\msbuild.AtalayKaynak_mk_3.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\staticwebassets\msbuild.AtalayKaynak_mk_3.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\staticwebassets\msbuild.build.AtalayKaynak_mk_3.props
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.AtalayKaynak_mk_3.props
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.AtalayKaynak_mk_3.props
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\AtalayKaynak_mk_3.dll
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\refint\AtalayKaynak_mk_3.dll
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\AtalayKaynak_mk_3.pdb
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\AtalayKaynak_mk_3.genruntimeconfig.cache
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\ref\AtalayKaynak_mk_3.dll
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\jt1desdez7-8zhudh24dp.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\wjay1jxr6v-w6bl0bteuj.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\2jlpre1cuc-v1nulek0pf.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\i0ny6bhba7-rce98uk7fe.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\3ccufu7wof-zvcy3zqtki.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\5u0lvatxea-gfqgo8a5n6.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\o1ynrirr72-ly1wxkv407.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\yd1zpxoax9-r5l7jlr0ca.gz
+C:\Users\aydin\Desktop\Repo\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\b9md6m3hfd-k8vm9tiypf.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\bin\Debug\net9.0\appsettings.json
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\bin\Debug\net9.0\AtalayKaynak_mk_3.staticwebassets.runtime.json
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\bin\Debug\net9.0\AtalayKaynak_mk_3.staticwebassets.endpoints.json
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\bin\Debug\net9.0\AtalayKaynak_mk_3.exe
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\bin\Debug\net9.0\AtalayKaynak_mk_3.deps.json
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\bin\Debug\net9.0\AtalayKaynak_mk_3.runtimeconfig.json
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\bin\Debug\net9.0\AtalayKaynak_mk_3.dll
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\bin\Debug\net9.0\AtalayKaynak_mk_3.pdb
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\AtalayKaynak_mk_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\AtalayKaynak_mk_3.AssemblyInfoInputs.cache
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\AtalayKaynak_mk_3.AssemblyInfo.cs
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\AtalayKaynak_mk_3.csproj.CoreCompileInputs.cache
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\AtalayKaynak_mk_3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\AtalayKaynak_mk_3.RazorAssemblyInfo.cache
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\AtalayKaynak_mk_3.RazorAssemblyInfo.cs
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\scopedcss\bundle\AtalayKaynak_mk_3.styles.css
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\jt1desdez7-ebth7qcnhz.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\wjay1jxr6v-0ylutmtenn.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\2jlpre1cuc-vmzuwd48hv.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\i0ny6bhba7-rce98uk7fe.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\3ccufu7wof-8q4g6ujojr.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\5u0lvatxea-8pktcuiq9d.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\o1ynrirr72-ce4a1gpqb8.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\s55vl6m7tz-61n19gt1b8.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\yd1zpxoax9-r5l7jlr0ca.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\b9md6m3hfd-k8vm9tiypf.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\uhzqmo5yiw-bqjiyaj88i.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\8o8jgykp1m-c2jlpeoesf.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\r6pve62kw8-erw9l3u2r3.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\tvn2pybpbb-aexeepp0ev.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\btc7gjm3tq-d7shbmvgxk.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\43hxubzgn8-ausgxo2sd3.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\2g85t7kima-k8d9w2qqmf.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\zsmvb4n3yz-cosvhxvwiu.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\5oteus8hge-ub07r2b239.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\rw1k3zxaah-fvhpjtyr6v.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\ifbmnjzuj2-b7pk76d08c.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\6kr2ocsy25-fsbi9cje9m.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\5nukkc83d1-rzd6atqjts.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\4uu0qy44io-ee0r1s7dh0.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\47ox89ixdx-dxx9fxp4il.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\p9pdk2wboy-jd9uben2k1.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\bi1102e80r-khv3u5hwcm.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\iqimu84xxc-r4e9w2rdcm.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\aet0vqpf4u-lcd1t2u6c8.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\hqn1c7do9p-c2oey78nd0.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\oalk7qeyyp-tdbxkamptv.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\qb8ceqowl7-j5mq2jizvt.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\xgb6aqzwrt-06098lyss8.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\kquzlg0xfo-nvvlpmu67g.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\otwsee1qwf-s35ty4nyc5.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\skqv5whmdy-pj5nd1wqec.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\l63clygpq0-46ein0sx1k.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\7tv6ud9nlw-v0zj4ognzu.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\45z3ryeig1-37tfw0ft22.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\qjscaf8uws-hrwsygsryq.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\kp9sad3gi0-pk9g2wxc8p.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\3tjiw9kyuv-ft3s53vfgj.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\e9kp6xizeh-6cfz1n2cew.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\ue3hf7ishs-6pdc2jztkx.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\c4g4fv8w5b-493y06b0oq.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\7rxfb0sixr-iovd86k7lj.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\ysfbd3l5qa-vr1egmr9el.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\lxmuh6d22s-kbrnm935zg.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\0pf690i6dq-jj8uyg4cgr.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\di3i529ace-y7v9cxd14o.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\uibarr9w5h-notf2xhcfb.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\mpr0oxssn1-h1s4sie4z3.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\728qzyhyug-63fj8s7r0e.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\2cfi9bpjb1-0j3bgjxly4.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\reo33ag404-47otxtyo56.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\sg8khsv05r-4v8eqarkd7.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\sii8uiyul7-356vix0kms.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\4km65197ai-83jwlth58m.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\ipbcx6u4bt-mrlpezrjn3.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\nyae9eypxy-lzl9nlhx6b.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\lehbgq5e8d-ag7o75518u.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\2m4e9yoe6r-x0q3zqp4vz.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\zsi48cc3h2-0i3buxo5is.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\bzhnapsvoy-o1o13a6vjx.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\dh2gedvmc3-ttgo8qnofa.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\seese1zzau-2z0ns9nrw6.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\aa4u94iclr-muycvpuwrr.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\dgcpdk67ln-87fc7y1x7t.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\compressed\mp903b6ljc-mlv21k5csn.gz
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\staticwebassets\msbuild.AtalayKaynak_mk_3.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\staticwebassets\msbuild.AtalayKaynak_mk_3.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\staticwebassets\msbuild.build.AtalayKaynak_mk_3.props
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.AtalayKaynak_mk_3.props
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.AtalayKaynak_mk_3.props
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\AtalayKaynak_mk_3.dll
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\refint\AtalayKaynak_mk_3.dll
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\AtalayKaynak_mk_3.pdb
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\AtalayKaynak_mk_3.genruntimeconfig.cache
+C:\Users\aydin\Desktop\Yeni klasör\AtalayKaynak_mk_3\obj\Debug\net9.0\ref\AtalayKaynak_mk_3.dll

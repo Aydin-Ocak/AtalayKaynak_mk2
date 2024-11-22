@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\AtalayKaynak_mk_3.props" />
+</Project>
